@@ -11,7 +11,7 @@ import SwiftUI
 struct ContadorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Marcador()
         }
     }
 }
